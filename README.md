@@ -26,4 +26,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian-paul)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+- [@LinkedIn](https://www.linkedin.com/in/sebastianpaulp)
+
+
 ![](https://komarev.com/ghpvc/?username=sebastian-paul)
